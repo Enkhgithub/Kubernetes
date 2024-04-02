@@ -1,6 +1,6 @@
 # Kubernetes
 
-<sup>superscript</sup> 
+
 
 ##	CRI-O	
 
