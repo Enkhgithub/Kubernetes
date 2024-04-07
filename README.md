@@ -5,6 +5,7 @@
 
 
 export OS="xUbuntu_22.04"
+
 export VERSION="1.27"
 
 echo "deb https://download.opensuse.org/repositories/devel:/kubic:/libcontainers:/stable/$OS/ /" > /etc/apt/sources.list.d/devel:kubic:libcontainers:stable.list
